@@ -14,6 +14,6 @@ Each homework assignment will have the form `Homework_<#>_Questions.ipynb`. Any 
 To complete the homeworks:
 1. Open the assignment in Colab, by clicking on the badge at the top of the notebook that says "Open in Colab."
 3. Answer the prompts in new Text or Code cells as appropriate. **Don't forget to add your name!**
-4. When you're done, click File > Download > Download ipynb and email your completed notebook. **Name it `OR_HW<#>_<Lastname>.ipynb` (e.g. `OR_HW1_Lara.ipynb`)**
+4. When you're done, click File > Download > Download ipynb and email your completed notebook. **Name it `Sim_HW<#>_<Lastname>.ipynb` (e.g. `Sim_HW1_Lara.ipynb`)**
 5. ???
 6. Profit.
